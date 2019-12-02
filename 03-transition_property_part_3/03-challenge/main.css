@@ -3,6 +3,8 @@ a {
     transition-duration: 1s;
     transition-timing-function: ease-in-out;
     font-size: 30px;
+    text-decoration: none;
+
 }
 
 a:hover {
